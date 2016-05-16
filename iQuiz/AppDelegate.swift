@@ -44,3 +44,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+
+/*
+TODO!!
+ 
+ -fix long questions, make them show via scaling or spacing
+ -do local storage
+ */
